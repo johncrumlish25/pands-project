@@ -4,7 +4,14 @@
 This project analyses the Iris dataset using Python. The aim is to explore the dataset, generate visualisations, and identify patterns between different flower species.
 
 ## About the Dataset
-The dataset conatins 150 samples of iris flowers from three different species with each sample including four measurements:
+The Iris dataset was introduced by Ronald Fisher and is commonly used in statistics and machine learning. 
+
+It contains 150 samples of iris flowers from three different species:
+- Setosa  
+- Versicolor  
+- Virginica 
+
+Each sample includes four measurements:
 - Sepal length  
 - Sepal width  
 - Petal length  
@@ -29,5 +36,4 @@ The notebook performs the following tasks:
 ## Technologies Used
 - Python  
 - Pandas  
-- Matplotlib  
-
+- Matplotlib
