@@ -37,3 +37,14 @@ The notebook performs the following tasks:
 - Python  
 - Pandas  
 - Matplotlib
+
+## AI Usage
+AI tools were used to assist with code structure, explanations, and problem solving during this project.  
+
+Example prompts used include:
+- "How to create histograms in matplotlib"
+- "How to generate scatter plots for multiple variables in Python"
+- "How to calculate correlation in pandas"
+- "How to loop through columns to create multiple plots"
+
+All generated code was reviewed, tested, and modified where necessary to ensure it was understood and appropriate for the project.
